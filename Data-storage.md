@@ -6,6 +6,6 @@ Proposal: adhere to [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) extended 
 [Join the discussion](https://github.com/RDA-sUAS-Data-IG/sUASData/issues/2)
 
 #### Location
-Proposal: adhere to [ISO 6709](https://en.wikipedia.org/wiki/ISO_6709), but also require altitude and use of WGS84 
+Proposal: adhere to [ISO 6709](https://en.wikipedia.org/wiki/ISO_6709), but also require altitude and use of [WGS84](https://en.wikipedia.org/wiki/World_Geodetic_System#A_new_World_Geodetic_System:_WGS_84) 
 
 [Join the discussion](https://github.com/RDA-sUAS-Data-IG/sUASData/issues/1)
