@@ -1,4 +1,4 @@
-###Metadata that should always be provided
+### Metadata that should always be provided
 
 #### Time stamps
 Proposal: adhere to [ISO 8601](https://en.wikipedia.org/wiki/ISO_8601) extended format eg: 2017-04-05T12:33:35+00:00
