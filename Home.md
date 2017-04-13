@@ -9,6 +9,7 @@ This wiki attempts to provide guidelines to enable good data management by sUAS 
 To clarify, we are not currently exploring guidelines for:
 1. higher level data product management, or
 1. how to perform sensor calibration, sampling and flight procedures.
+
 However, we recognise these as significant issues. Feel free to engage further with us via the RDA group [mailing list](https://www.rd-alliance.org/groups/small-unmanned-aircraft-systems%E2%80%99-data-ig) and [read](https://www.rd-alliance.org/blogs/drones-emerging-scientific-tools-trade.html) about other groups we're engaged with working on these and other issues.
 
 ## Topics
