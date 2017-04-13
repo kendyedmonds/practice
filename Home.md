@@ -6,7 +6,7 @@ Click on any topic to access the issue thread and contribute further to the disc
 #### A Note on Scope
 This wiki attempts to provide guidelines to enable good data management by sUAS users.  Consequently, the focus is on flight-granularity and first level data (see issue for data level definition discussion).
 
-To clarify, we are not currently exploring guidelines for:
+To clarify, we are currently **not** exploring guidelines for:
 1. higher level data product management, or
 1. how to perform sensor calibration, sampling and flight procedures.
 
