@@ -8,3 +8,6 @@ References relevant for sUAS data issues
 
 #### Social media (including blogs)
 * [Who's doing what in the world about drone standardisation](https://www.rd-alliance.org/blogs/drones-emerging-scientific-tools-trade.html)
+
+#### Guides and manuals
+* [NetCDF User's Guide](http://www.unidata.ucar.edu/software/netcdf/docs/user_guide.html)
