@@ -4,7 +4,7 @@ Proposal: Follow the [underwater glider community](https://github.com/ioos/ioosn
 ### Advantages of NetCDF
 * Independent of computer architecture - hassle-free sharing between platforms
 * Self-describing - ancillary information and metadata can be included in the same file as the data
-* Flexible - can hold arbitrarily large arrays (netCDF-4) with an arbitrary number of dimensions (starting at 0, i.e. scalar values)
+* Flexible - can hold arbitrarily large arrays (netCDF-4) with an arbitrary number of dimensions (scalars are treated as 0-dimensional arrays)
 
 
 ## Remote and proximal sensing
